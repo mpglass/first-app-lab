@@ -6,7 +6,7 @@ ReactDOM.render(
     <App
     greet={() => console.log('Hello there')}
     friend="Luke"
-    skills={['awesome, ', 'great teacher, ', ' loves cats!']}
+    skills={['awesome, ', 'great teacher, ', 'SSBM player, ', ' loves cats!']}
     />,
     document.getElementById('root')
 );
